@@ -1,10 +1,10 @@
 <template>
     <div class="bg-light-tail-100 dark:bg-dark-navy-500">
         <div
-            class="md:mx-auto container max-w-8xl py-12 px-4 sm:px-6 lg:flex lg:items-center lg:justify-between lg:py-16 md:px-12"
+            class="md:mx-auto container max-w-8xl py-10 px-4 sm:px-6 lg:flex lg:items-center lg:justify-between lg:py-8 md:px-12"
         >
             <h2
-                class="text-3xl font-bold tracking-tight text-light-tail-500 dark:text-dark-navy-100 sm:text-4xl"
+                class="text-3xl font-bold tracking-tight text-light-tail-500 dark:text-light-tail-100 sm:text-4xl"
             >
                 <span class="block">Ready to dive in?</span>
                 <span class="block text-dark-primary dark:text-white"

@@ -1,5 +1,5 @@
 <template>
-    <section id="skills" class="bg-light-tail-100 dark:bg-dark-navy-500 py-16">
+    <section id="skills" class="bg-light-tail-100 dark:bg-dark-navy-500 py-8">
         <div class="container mx-auto">
             <marquee behavior="scroll" direction="left" scrollamount="10">
                 <div class="flex items-center justify-center space-x-4">
